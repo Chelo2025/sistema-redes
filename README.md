@@ -48,7 +48,7 @@ cd sistema-redes
 chmod +x red_chkrootkit.sh
 ./red_chkrootkit.sh
 
-📋 Funcionalidades del script
+## 📋 Salida esperada del script
 
 Información del hostname, IP y MAC.
 
@@ -62,14 +62,15 @@ Conexiones establecidas y puertos en escucha.
 
 Análisis de posibles rootkits (chkrootkit)
 
-👨‍💻 Autor
 
-Marcelo Martinez - Chelo2025
+## 👨‍💻 Autor
+
+### Marcelo Martinez - Chelo2025
 
 🎓 Estudiante de Licenciatura en Tecnología Digital
 
 🛡️ Técnico Superior en Redes Informáticas
 
-🎓 Diplomado en Administración de Redes Linux, Ciberseguridad y Hacking Ético
+🎓 Estudiante en Diplomado en Administración de Redes Linux, Ciberseguridad y Hacking Ético
 
 🔗 GitHub: https://github.com/Chelo2025
