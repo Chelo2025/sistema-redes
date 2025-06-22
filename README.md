@@ -46,6 +46,7 @@ cd sistema-redes
 ### 3. Asignar permisos de ejecución y ejecutar script
 
 chmod +x red_chkrootkit.sh
+
 ./red_chkrootkit.sh
 
 ## 📋 Salida esperada del script
