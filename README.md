@@ -68,7 +68,7 @@ Análisis de posibles rootkits (chkrootkit)
 
 ### Marcelo Martinez - Chelo2025
 
-🎓 Estudiante de Licenciatura en Tecnología Digital
+🎓 Estudiante de Licenciatura en Tecnologías Digitales
 
 🛡️ Técnico Superior en Redes Informáticas
 
